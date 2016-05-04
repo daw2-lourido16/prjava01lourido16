@@ -26,7 +26,7 @@ public class Prjava01lourido16 {
             bw.newLine();
             bw.write(" <title>");
             bw.newLine();
-            bw.write(" Nova p&agrave;gina web de Xavi Lourido");
+            bw.write(" Nova p&agrave;gina web de Xavi Lourido DAW2 UF4 Pràctica 2");
             bw.newLine();
             bw.write(" </title>");
             bw.newLine();
@@ -34,7 +34,7 @@ public class Prjava01lourido16 {
             bw.newLine();
             bw.write(" <body>");
             bw.newLine();
-            bw.write(" Nova p&agrave;gina web de Xavi Lourido");
+            bw.write(" Nova p&agrave;gina web de Xavi Lourido DAW2 UF4 Pràctica 2");
             bw.newLine();
             bw.write(" </body>");
             bw.newLine();
